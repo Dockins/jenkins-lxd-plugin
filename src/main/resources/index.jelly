@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Use LXD to run Jenkins slaves as isolated containers
+</div>
